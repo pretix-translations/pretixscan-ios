@@ -197,3 +197,5 @@
 "Scanned:" = "Gescannt:";
 "Camera Access Required" = "Kamerazugriff benötigt";
 "pretixSCAN needs access to your camera to scan tickets. You can grant access in Settings." = "pretixSCAN benötigt Zugriff auf Ihre Kamera, um Tickets zu scannen. Sie können den Zugriff in den Einstellungen erlauben.";
+"Medium Exchange Needed" = "Medientausch notwendig";
+"Ticket already exchanged" = "Ticket bereits in ein Medium umgetauscht";
